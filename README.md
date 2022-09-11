@@ -16,4 +16,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jemish-169&icon=7&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jemish-169&icon=7&color=1)](https://visitcount.itsvg.in)
