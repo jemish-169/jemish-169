@@ -1,3 +1,4 @@
+![Simple LinkedIn Banner_4096x2304](https://github.com/jemish-169/jemish-169/assets/95186825/2cdea638-07e4-4cdc-886b-3987be5cca58)
 <h1 align="center">Hi 👋, I'm Jemish Khunt</h1>
 <h3 align="center">A passionate Native Android developer from India</h3>
 
