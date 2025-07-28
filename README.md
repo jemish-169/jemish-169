@@ -10,14 +10,17 @@ I'm an Android Developer building modern, scalable apps using **Jetpack Compose*
 
 ## 🚀 Featured Projects
 
-### [Stocky - Inventory POS](https://github.com/jemish-169/Stocky-Inventory-Management-POS)
-POS system with inventory tracking, Supabase backend, multilingual support, and animated Compose UI.
-
 ### [Pro Scanner](https://github.com/jemish-169/Pro-Scanner) | [Play Store](https://play.google.com/store/apps/details?id=com.elite.scanner)
 ML Kit-powered document scanner with smart crop, file management, and clean Compose-based UX.
 
 ### [Bhagavad Gita App](https://github.com/jemish-169/Bhagavad-Gita) | [Play Store](https://play.google.com/store/apps/details?id=com.practice.gita)
 Spiritual app with audio playback, translators, bookmarking, and modern XML UI.
+
+### [Agri Price](https://github.com/jemish-169/Agri-Price) | [Play Store](https://play.google.com/store/apps/details?id=com.elite.agriprice)
+Agri-price: Daily crop price tracker for all Gujarat markets with offline support.
+
+### [Stocky - Inventory POS](https://github.com/jemish-169/Stocky-Inventory-Management-POS)
+POS system with inventory tracking, Supabase backend, multilingual support, and animated Compose UI.
 
 ---
 
